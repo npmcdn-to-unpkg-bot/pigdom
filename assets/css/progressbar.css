@@ -1,0 +1,44 @@
+.one, .two, .three, .four{
+  position:absolute;
+	margin-top:-10px;
+	z-index:1;
+	height:40px;
+	width:40px;
+	border-radius:25px;
+  text-align: center;
+}
+.one{
+	left:1%;
+}
+.two{
+	left:50%;
+}
+.three{
+	left:99%;
+}
+.four {
+  left: 99%;
+}
+.primary-color{
+	background-color:#4989bd;
+  color: white;
+  font-size: 20px;
+  font-weight: 700;
+}
+.success-color{
+	background-color:#5cb85c;
+}
+.danger-color{
+	background-color:#d9534f;
+}
+.warning-color{
+	background-color:#f0ad4e;
+}
+.info-color{
+	background-color:#5bc0de;
+}
+.no-color{
+	background-color:inherit;
+  font-size: 20px;
+  font-weight: 700;
+}
