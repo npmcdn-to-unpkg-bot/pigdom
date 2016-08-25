@@ -42,3 +42,9 @@
   font-size: 20px;
   font-weight: 700;
 }
+
+.completed {
+  text-decoration: line-through;
+  color: green;
+  color: #ccc;
+}
